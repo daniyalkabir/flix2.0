@@ -20,7 +20,7 @@
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-<img src="https://imgur.com/F5mqrFR.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
+<img src="https://imgur.com/b8IbR8q.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
